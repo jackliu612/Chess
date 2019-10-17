@@ -1,1 +1,2 @@
-"# Chess" 
+# Chess
+First major personal project in the months after first CS class. Made in Java using JFrames, JPanels, and BufferedImages. Please pardon the poor graphics and don't look too closely at the code...
